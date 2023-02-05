@@ -1,1 +1,1 @@
-This is my studyBuddy project that I made for COGS 3.
+This is a prototype for a studying app that connects users to other individuals that want someone to study with.
